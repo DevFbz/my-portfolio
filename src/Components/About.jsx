@@ -20,7 +20,7 @@ const About = () => {
             <div className="absolute inset-0 bg-gradient-to-br from-purple-neon/20 to-magenta-accent/20 rounded-3xl blur-2xl"></div>
             <div className="relative bg-dark-secondary rounded-3xl overflow-hidden border border-purple-neon/20 shadow-2xl">
               <img 
-                src="./src/assets/img/meybackground.jpg" 
+                src="/src/assets/img/meybackground.jpg" 
                 alt="About Me" 
                 className="w-full h-full object-cover"
               />
@@ -75,7 +75,7 @@ const About = () => {
             <div className="pt-4">
               <a
               target='_blank'
-                href="./src/assets/Curriculo_Breno_Fabrizio_Estagio25.pdf"
+                href="/src/assets/Curriculo_Breno_Fabrizio_Estagio25.pdf"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-purple-neon to-magenta-accent rounded-full font-semibold text-white hover:shadow-lg hover:shadow-purple-neon/50 transform hover:scale-105 transition-all duration-300"
               >
                 <Award size={20} />
