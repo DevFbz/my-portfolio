@@ -1,10 +1,10 @@
 
-import Banner from './components/Banner'
-import About from './components/About'
-import Skills from './components/Skills'
+import Banner from './Components/Banner'
+import About from './Components/About'
+import Skills from './Components/Skills'
 import Projects from './Components/Projects.jsx'
-import MailchimpForm from './components/MailchimpForm'
-import Footer from './components/Footer'
+import MailchimpForm from './Components/MailchimpForm'
+import Footer from './Components/Footer'
 import Navbar from './Components/Navbar.jsx'
 
 

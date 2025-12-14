@@ -81,13 +81,13 @@ const Footer = () => {
             <h4 className="text-text-primary font-semibold mb-4">Contato</h4>
             <ul className="space-y-3 text-text-secondary">
               <li>
-                <a href="mailto:seu@email.com" className="hover:text-purple-neon transition-colors">
+                <a href="brenofabrizio2018@gmail.com" className="hover:text-purple-neon transition-colors">
                   seu@email.com
                 </a>
               </li>
               <li>
-                <a href="tel:+5511999999999" className="hover:text-purple-neon transition-colors">
-                  +55 (11) 99999-9999
+                <a href="tel:+5521993668459" className="hover:text-purple-neon transition-colors">
+                  +55 (21) 99366-8459
                 </a>
               </li>
               <li className="text-sm">
@@ -103,7 +103,7 @@ const Footer = () => {
         {/* Bottom Footer */}
         <div className="py-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-text-muted text-sm text-center md:text-left">
-            © {currentYear} Seu Nome. Feito com <Heart className="inline text-magenta-accent" size={16} fill="currentColor" /> e muito café
+            © {currentYear} DevFbz. Feito com <Heart className="inline text-magenta-accent" size={16} fill="currentColor" /> e muito café
           </p>
           
           <div className="flex items-center gap-6 text-sm text-text-muted">
