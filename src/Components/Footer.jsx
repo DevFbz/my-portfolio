@@ -34,7 +34,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="lg:col-span-2 space-y-4">
             <h3 className="text-2xl font-bold bg-gradient-to-r from-purple-neon to-magenta-accent bg-clip-text text-transparent">
-              Seu Nome
+              DevFbz
             </h3>
             <p className="text-text-secondary leading-relaxed max-w-md">
               Desenvolvedor Full Stack Jr apaixonado por criar experiências digitais incríveis. 
