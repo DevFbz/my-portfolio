@@ -37,7 +37,7 @@ const Footer = () => {
               Seu Nome
             </h3>
             <p className="text-text-secondary leading-relaxed max-w-md">
-              Desenvolvedor Full Stack apaixonado por criar experiências digitais incríveis. 
+              Desenvolvedor Full Stack Jr apaixonado por criar experiências digitais incríveis. 
               Transformando ideias em realidade através do código.
             </p>
             
@@ -82,7 +82,7 @@ const Footer = () => {
             <ul className="space-y-3 text-text-secondary">
               <li>
                 <a href="brenofabrizio2018@gmail.com" className="hover:text-purple-neon transition-colors">
-                  seu@email.com
+                brenofabrizio2018@gmail.com
                 </a>
               </li>
               <li>
