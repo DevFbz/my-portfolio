@@ -20,7 +20,7 @@ const About = () => {
             <div className="absolute inset-0 bg-gradient-to-br from-purple-neon/20 to-magenta-accent/20 rounded-3xl blur-2xl"></div>
             <div className="relative bg-dark-secondary rounded-3xl overflow-hidden border border-purple-neon/20 shadow-2xl">
               <img 
-                src="/src/assets/img/meybackground.jpg" 
+                src="/img/meybackground.jpg" 
                 alt="About Me" 
                 className="w-full h-full object-cover"
               />

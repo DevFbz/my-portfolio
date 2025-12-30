@@ -48,14 +48,14 @@ const Banner = () => {
 
       <img
       className="w-full h-full object-cover blur-4xl" 
-      src="/src/assets/img/bobackground1.png" alt="" />
+      src="/img/bobackground1.png" alt="" />
       
       </div>
       <div className="absolute bottom-20 right-10 w-100 h-100 hidden md:block bg-magenta-accent/transparent rounded-full animate-pulse delay-2000">
       
       <img
       className="w-full h-full object-cover blur-4xl" 
-      src="/src/assets/img/bobackground2.png" alt="" />
+      src="/img/bobackground2.png" alt="" />
 
       </div>
 
@@ -66,7 +66,7 @@ const Banner = () => {
             <div className="absolute inset-0 bg-gradient-to-r from-purple-neon to-magenta-accent  blur-xl group-hover:blur-2xl transition-all duration-300 opacity-70"></div>
             <div className="relative w-30 h-30 md:w-30 md:h-30 overflow-hidden rounded-[50px] border-4 border-purple-neon/50 shadow-2xl">
               <img 
-                src="/src/assets/img/avatar1-1.png" 
+                src="/img/avatar1-1.png" 
                 alt="Profile" 
                 className="w-full h-full object-cover"
               />
